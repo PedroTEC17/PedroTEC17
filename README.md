@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Dev 👋
 
 <!--
 **PedroTEC17/PedroTEC17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
